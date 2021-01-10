@@ -6,11 +6,11 @@
  The classifier can classify
 
  - my own face "Markus"
- <img align="right" src="Plots/Markus.PNG" width="100">
- <img align="right" src="Plots/Others.PNG" width="100">
- <img align="right" src="Plots/Objects.PNG" width="100">
  - faces of other human beings "others"
  - some random "objects".
+ <img align="left" src="Plots/Markus.PNG" width="100">
+ <img align="left" src="Plots/Others.PNG" width="100">
+ <img align="left" src="Plots/Objects.PNG" width="100">
  
  # Data
  <p align="center">
