@@ -4,14 +4,27 @@
 # Overview
  Building a deep learning face recognition system using transfer learning.
  The classifier can classify
+ <img align="right" src="Markus/cm.PNG" width="350">
  - my own face "Markus"
  - faces of other human beings "others"
  - some random "objects".
  
+ # Data
+ <p align="center">
+  <img src="Info/acc.png" width="400">
+</p>
+ 
 # Results
 Even if my brother who is looking a lot like me is not available in the whole dataset the classifier is trained on, most pictures of my brother are classified correctly as "Others".
-
+## Confusion Matrix on Validation and Test Dataset
 <img src="Plots/cm.PNG" width="350"> <img src="Plots/cm_test.PNG" width="350">
+
+## Training & Validation Accuracy
+<p align="center">
+  <img src="Plots/acc.png" width="400">
+</p>
+
+
 
 # Additional Info
 To train with your own data you have to fill the Dataset folder with your own images and images of objects and other human faces.
