@@ -16,7 +16,7 @@
  
  # Data
  <p align="center">
-  <img src="Plots/Info.PNG" width="700">
+  <img src="Plots/Info.PNG" width="600">
 </p>
  
 # Results
