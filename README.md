@@ -11,6 +11,8 @@
 # Results
 Even if my brother who is looking a lot like me is not available in the whole dataset the classifier is trained on, most pictures of my brother are classified correctly as "Others".
 
+<img src="Plots/cm.png" width="350"> <img src="Plots/cm_test.png" width="350">
+
 # Additional Info
 To train with your own data you have to fill the Dataset folder with your own images and images of objects and other human faces.
 To train on other categories than your face, others and objects, you can adapt the code and the dataset folder containing the images to your own data categories.
