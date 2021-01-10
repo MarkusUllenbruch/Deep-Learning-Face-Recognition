@@ -4,14 +4,16 @@
 # Overview
  Building a deep learning face recognition system using transfer learning.
  The classifier can classify
- <img align="right" src="Plots/Markus.PNG" width="350">
+ <img align="right" src="Plots/Markus.PNG" width="100">
+ <img align="right" src="Plots/Markus.PNG" width="100">
+ <img align="right" src="Plots/Markus.PNG" width="100">
  - my own face "Markus"
  - faces of other human beings "others"
  - some random "objects".
  
  # Data
  <p align="center">
-  <img src="Plots/Info.PNG" width="400">
+  <img src="Plots/Info.PNG" width="900">
 </p>
  
 # Results
