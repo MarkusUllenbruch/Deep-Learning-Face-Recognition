@@ -12,6 +12,8 @@
  <img align="left" src="Plots/Others.PNG" width="100">
  <img align="left" src="Plots/Objects.PNG" width="100">
  <br />
+ 
+ 
  # Data
  <p align="center">
   <img src="Plots/Info.PNG" width="700">
